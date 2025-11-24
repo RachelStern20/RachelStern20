@@ -23,3 +23,7 @@ I am currently architecting a full-scale book ordering system. Here is what I do
     <img src="https://skillicons.dev/icons?i=java,c,mysql,php,js,python,gcp,wordpress,git&theme=light" />
   </a>
 </div>
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-stern-software-engineer/)
