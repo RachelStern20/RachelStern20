@@ -6,7 +6,7 @@
 💻 **Currently Developing:** BookPod System (Cloud & WordPress Integration)
 📬 **Reach me at:** Rachelish14@gmail.com
 
-## 👨‍💻 Current Project: BookPod Ecosystem
+## 👩🏼‍💻 Current Project: BookPod Ecosystem
 
 I am currently architecting a full-scale book ordering system. Here is what I do:
 
