@@ -20,6 +20,6 @@ I am currently architecting a full-scale book ordering system. Here is what I do
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,mysql,php,js,py,gcp,wordpress,git" />
+    <img src="https://skillicons.dev/icons?i=java,c,mysql,php,js,python,gcp,wordpress,git&theme=light" />
   </a>
 </div>
